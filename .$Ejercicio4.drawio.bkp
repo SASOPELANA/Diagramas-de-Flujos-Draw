@@ -1,0 +1,13 @@
+<mxfile host="Electron" modified="2024-02-04T00:41:34.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="kwNt2MD85IAQv0K7AwmM" version="23.0.2" type="device">
+  <diagram name="Página-1" id="hTAZJod6gD0zeuS_47gb">
+    <mxGraphModel dx="2247" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE6CC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xx0PAyjNFP5IWGpz7QTX-1" value="4. Hacer una función de tipo void (porque no va a devolver nada) llamada “positivoNegativoCero” &#xa;que reciba un número por valor y una variable por referencia. Que analice el número y escriba &#xa;variable recibida por referencia con:&#xa;&#xa;a. 1 si el número es positivo.&#xa;b. -1 si el número es negativo.&#xa;c. 0 si el número es cero." style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="20" width="970" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
